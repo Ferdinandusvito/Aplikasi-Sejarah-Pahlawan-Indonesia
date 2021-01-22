@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Pahlawan</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Ki Hadjar Dewantara</item>
+        <item>R.A.Kartini</item>
+        <item>Dewi Sartika</item>
+        <item>KH. Hasyim Asy’ari</item>
+        <item>KH. Ahmad Dahlan</item>
+        <item>Pangeran Diponegoro</item>
+        <item>Kapitan pattimura</item>
+        <item>Ir. Soekarno</item>
+        <item>Moh. hatta</item>
+        <item>Tan Malaka</item>
+        <item>Bung Tomo</item>
+        <item>Sutan Sjahrir</item>
+        <item>Agus Salim</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Raden Mas Soewardi Soejaningrat atau yang dikenal dengan nama Ki Hadjar Dewantara,
+              adalah bapak pendidikan yang lahir di Pakualaman, 2 Mei 1889, wafat pada April 26, 1959 di Yogyakarta. Ki Hajar Dewantara
+              dikenal sebagai Bapak Pendidikan Nasional karena ia membangun sekolah bernama Nationaal Onderwijs Instituut Tamansiswa yang
+              kemudian dikenal dengan nama Taman Siswa pada 3 Juli 1922. Ia juga berhasil menemukan konsep baru tentang metode pengajaran
+              di Taman Siswa.Pasca kemerdekaan Ki Hajar Dewantara pernah ditunjuk sebagai Menteri Pengajaran Indonesia (sekarang Menteri
+              Pendidikan). Tokoh bersahaja ini juga dianugerahi gelar Doktor Kehormatan dari Universitas Gadjah Mada. </item>
+        <item>Raden Ajeng Kartini adalah salah satu tokoh pendidikan perempuan yang lahir pada 21 April 1879 dan wafat pada 17 September 1904. Kartini dikenal sebagai
+              tokoh Jawa danPahlawan Nasional Indonesia. Kartini gemar membaca dan menulis, beberapa tulisannya dalam surat-surat untuk sahabatnya pun dibukukan.
+              Pada surat-surat Kartini tertulis pemikiran-pemikirannya tentang kondisi sosial saat itu, terutama tentang kondisi perempuan pribumi. Sebagian besar
+              surat-suratnya berisi keluhan dan gugatan khususnya menyangkut budaya di Jawa yang dipandang sebagai penghambat kemajuan perempuan. Kartini juga mendirikan
+              sekolah bernama Kartini School atau Sekolah Kartini.</item>
+        <item>Dewi Sartika adalah pahlawan pendidikan nasional yang lahir di Cicalengka, 4 Desember 1884, ia wafat pada 11 September 1947 di Tasikmalaya. Ia adalah tokoh
+              perintis pendidikan kaum wanita dan diakui sebagai Pahlawan Nasional oleh Pemerintah Indonesia pada tahun 1966.Pada 16 Januari 1904, Dewi Sartika membuat sekolah
+              yang bernama Sekolah Isteri di Pendopo Kabupaten Bandung. Sekolah tersebut kemudian direlokasi ke Jalan Ciguriang dan berubah nama menjadi Sekolah Kaoetamaan
+              Isteri pada tahun 1910. Pada tahun 1912, sudah ada sembilan sekolah yang tersebar di seluruh Jawa Barat, lalu kemudian berkembang menjadi satu sekolah tiap kota
+              maupun kabupaten pada tahun 1920.</item>
+        <item>KH. Hasyim Asy’ari memiliki nama lengkap Muhammad Hasyim bin Asy’ari bin Abdul Wahid bin Abdul Halim atau yang populer dengan nama Pangeran Benawa bin Abdul Rahman
+              yang juga dikenal dengan julukan Jaka Tingkir (Sultan Hadiwijaya) bin Abdullah bin Abdul Aziz bin Abdul Fatah bin Maulana Ishaq bin Ainul Yakin yang populer dengan sebutan
+              Sunan Giri. Sementara dari jalur ibu adalah Muhammad Hasyim binti Halimah binti Layyinah binti Sihah bin Abdul Jabbar bin Ahmad bin Pangeran Sambo bin Pangeran Benawa bin
+              Jaka Tingkir atau juga dikenal dengan nama Mas Karebet bin Lembu Peteng (Prabu Brawijaya VI).</item>
+        <item>KH Ahmad Dahlan memiliki nama asli Muhammad Darwis, lahir di Yogyakarta, 1 Agustus 1868. Ahmad Dahlan adalah anak keempat dari tujuh bersaudara yang ada di keluarga
+              KH Abu Bakar. Ayahnya seorang tokoh agama terkemuka, khatib di Masjid Besar Kasultanan Yogyakarta di era Hindia Belanda. Ibunya, Siti Aminah, adalah putri Haji Ibrahim,
+              penghulu di Kesultanan Yogyakarta pada masa itu.</item>
+        <item>Pangeran Diponegoro berperan besar dalam memimpin Perang Jawa yang terjadi dalam kurun waktu lima tahun, yaitu pada tahun 1825 hingga 1830.
+              Perang ini berkobar di hampir seluruh daerah di Pulau Jawa dan merupakan salah satu perang terbesar yang pernah terjadi dalam sejarah perjuangan melawan Belanda.
+              Walaupun berakhir dengan kemenangan Belanda, Pangeran Diponegoro sempat membuat Belanda mengalami kesulitan dan kerugian akibat gugurnya ribuan serdadu Belanda.</item>
+        <item>Thomas Matulessy atau yang lebih dikenal dengan Pattimura adalah pahlawan bangsa yang berperan sebagai panglima perang dalam perlawanan rakyat Maluku dengan tentara VOC Belanda.
+              Dengan wibawa dan kepemimpinannya, Pattimura berhasil menyatukan kerajaan Nusantara, tepatnya Ternate dan Tidore untuk menghadapi penjajah pada tahun 1817.</item>
+        <item>Berbicara tentang pahlawan kemerdekaan nasional Indonesia tidak bisa dilakukan tanpa sang proklamator kemerdekaan itu sendiri.
+              Ir. Soekarno adalah presiden pertama Indonesia yang juga berperan sebagai pencetus dasar negara Pancasila yang kita gunakan hingga saat ini.
+              Bersama dengan Mohammad Hatta, Soekarno merupakan tokoh penting yang telah menginspirasi masyarakat Indonesia dalam perjuangan mencapai gerbang kemerdekaan.</item>
+        <item>Mohammad Hatta atau yang biasa dikenal sebagai Bung Hatta adalah salah seorang pahlawan nasional yang berperan besar dalam proklamasi kemerdekaan Indonesia.
+              Semangat patriotisme Bung Hatta telah tumbuh sejak ia masih muda dengan partisipasinya sebagai aktivis, anggota dari organisasi pergerakan nasional hingga menjadi negarawan yang turut
+              mendampingi Soekarno untuk memperjuangkan Indonesia dari penjajahan Belanda.</item>
+        <item>Salah satu pahlawan perintis kemerdekaan Indonesia yang sering dilupakan jasanya. Beliau berperan besar dalam perlawanan terhadap kolonialisme bangsa Belanda.
+              Pemikirannya, yang tertuang dalam berbagai tulisan, telah menginspirasi Soekarno, Hatta, Sjahrir dan tokoh-tokoh pergerakan nasional lainnya untuk memperjuangkan kemerdekaan
+              bangsa Indonesia dari para penjajah.</item>
+        <item>Sutomo alias Bung Tomo, adalah salah satu pahlawan nasional asal Surabaya. Bung Tomo dikenal dengan aksi heroiknya saat membangkitkan semangat arek-arek Suroboyo dalam melawan kembali
+             tentara Nederlandsch Indie Civil Administratie (NICA) Belanda dalam pertempuran 10 November.Bung Tomo, yang juga merupakan seorang jurnalis asal Surabaya ini juga dikenal dengan semboyan “Merdeka atau Mati” dalam pertempuran berdarah di Surabaya tersebut. Pertempuran
+             Surabaya kini diperingati sebagai Hari Pahlawan.</item>
+        <item>Sutan Sjahrir merupakan salah satu pahlawan nasional Indonesia yang dikenal karena jasanya dalam mengorganisasi kemerdekaan Indonesia.
+              Bersama dengan Bung Karno dan Bung Hatta, ketiganya disebut dengan triumvirat kemerdekaan republik. Pada awal berdirinya republik, Sjahrir juga sempat menjabat sebagai perdana menteri.</item>
+        <item>Di awal bedirinya republik, Agus Salim memegang peran yang tidak kalah penting dibandingkan tokoh-tokoh pergerakan kebangsaan lainnya.
+              Namun, kiprah Agus Salim di pentas politik kemerdekaan sudah jauh ada sebelum era kemerdekaan. Agus Salim merupakan salah seorang pimpinan organisasi Islam terbesar kala itu yakni Serikat Islam.
+              Agus Salim yang dikenal menguasai berbagai macam bahasa asing ini juga dikenal sebagai seorang diplomat yang ulung.</item>
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://www.tagar.id/Asset/uploads2019/1588473091587-ki-hajar-dewantara.jpg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/FikZU5UwRDoaidodo36x6pCpmgo=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2105097/original/017687400_1524222629-kartini__1_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a2/Raden_Dewi_Sartika.jpg</item>
+        <item>https://tebuireng.online/wp-content/uploads/hasyimasyari003.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/87/Ahmad_Dahlan.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/pangeran-diponegoro.jpg</item>
+        <item>https://cdns.klimg.com/merdeka.com/i/w/tokoh/2012/03/15/4595/200x300/kapitan-pattimura.jpg</item>
+        <item>https://s.kaskus.id/r540x540/images/2018/06/30/8516569_201806300345040150.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/Mohammad-Hatta.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/tan-malaka.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/bung-tomo.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/Sutan-Sjahrir.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/12/agus-salim.jpg</item>
+
+    </string-array>
+
+</resources>
